@@ -1,5 +1,5 @@
 class Student:
-    college = "ABC College"
+    college = "MIT ADT"
 
     def __init__(self, name, marks):
         self.name = name
